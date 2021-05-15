@@ -1,3 +1,4 @@
+![2021-05-15 (3)](https://user-images.githubusercontent.com/72447285/118376482-1c553480-b596-11eb-92f8-2242d1290fb8.png)
 
 # Portfolio
 
@@ -24,3 +25,4 @@ Built with React, Bootstrap and Sass.
 Hi there thanks for your time!
  [email](mailto:austin.dudzic@gmail.com) me.
   
+![2021-05-15 (3)](https://user-images.githubusercontent.com/72447285/118376489-2119e880-b596-11eb-9288-5e7af40a2d9e.png)
