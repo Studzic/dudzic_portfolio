@@ -1,5 +1,3 @@
-![2021-05-15 (3)](https://user-images.githubusercontent.com/72447285/118376482-1c553480-b596-11eb-92f8-2242d1290fb8.png)
-
 # 🎇Portfolio🎇
 
 
